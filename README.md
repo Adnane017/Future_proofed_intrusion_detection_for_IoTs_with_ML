@@ -61,7 +61,6 @@ Tests the trained models on unseen attack types not included during training.
 
 ## Contributors
 
-- **Dr Adnane Ez-zizi:** wrote most of the code in its current form and prepared the package for sharing. 
-- **Taiwo Adeyemi:** made significant contributions by developing the code for Section III and shaping previous iterations of the analyses. 
+Dr Adnane Ez-zizi & Taiwo Adeyemi. 
 
 ---
